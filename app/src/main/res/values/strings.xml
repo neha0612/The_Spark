@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Spark</string>
+
+    <string name="facebook_app_id">542280447027086</string>
+    <string name="fb_login_protocol_scheme">fb542280447027086</string>
+
+</resources>

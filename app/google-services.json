@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17646039582",
+    "project_id": "the-spark-76833",
+    "storage_bucket": "the-spark-76833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17646039582:android:2ffe446b1830cc5ad5340f",
+        "android_client_info": {
+          "package_name": "com.neha.thespark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17646039582-tmnp67vhed6ogaej0ltv46u7cpigh7jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlEOoQ39iGsiySodVed2LG2pZcKmTmd00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17646039582-tmnp67vhed6ogaej0ltv46u7cpigh7jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
